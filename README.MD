@@ -8,7 +8,7 @@ Skoczek porusza się w kształcie litery L, tak jak na obrazku.
 Napisz metodę która zwróci listę pozycji na jakie może ruszyć się skoczek. 
 Klasa skoczka posiada atrybuty x i y określające jego położenie na szachownicy.
 
-![Skoczek](https://github.com/kamillo2012/jpwpPrezentacja/skoczek-ruch.png)
+![Skoczek](https://github.com/kamillo2012/jpwpPrezentacja/blob/master/skoczek-ruch.png)
 
 # Zadanie 3
 Napisz prosty hello world w GUI (po naciśnięciu przycisku wyświetla się tekst).
