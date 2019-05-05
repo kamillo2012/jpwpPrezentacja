@@ -8,13 +8,13 @@ Skoczek porusza się w kształcie litery L, tak jak na obrazku.
 Napisz metodę która zwróci listę pozycji na jakie może ruszyć się skoczek. 
 Klasa skoczka posiada atrybuty x i y określające jego położenie na szachownicy.
 
-![Skoczek](https://github.com/kamillo2012/jpwpPrezentacja/blob/master/skoczek-ruch.png)
+<img width="250" src="https://github.com/kamillo2012/jpwpPrezentacja/blob/master/skoczek-ruch.png" alt="Skoczek"/>
 
 # Zadanie 3
 Napisz prosty hello world w GUI (po naciśnięciu przycisku wyświetla się tekst).
 
 ##### Materiały pomocniczne
-* sudo apt-get install python3-tk
+* sudo apt-get install python3-tk [wklejanie do terminala ___SHIFT+INSERT___]
 * https://www.tutorialspoint.com/python/tk_button.htm
 * https://www.python-course.eu/tkinter_layout_management.php
 
