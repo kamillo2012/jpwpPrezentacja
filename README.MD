@@ -1,7 +1,7 @@
 # Zadanie 1
 Zmienić kod do zadania 1, tak aby wykorzystywał wyrażenie __with__
 
-https://github.com/kamillo2012/jpwpPrezentacja/zad1-template.py
+https://github.com/kamillo2012/jpwpPrezentacja/blob/master/zad1.py
 
 # Zadanie 2
 Skoczek porusza się w kształcie litery L, tak jak na obrazku.
