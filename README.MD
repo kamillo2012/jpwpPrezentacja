@@ -18,7 +18,11 @@ Napisz prosty hello world w GUI (po naciśnięciu przycisku wyświetla się teks
 * https://www.tutorialspoint.com/python/tk_button.htm
 * https://www.python-course.eu/tkinter_layout_management.php
 
+Szablon rozwiązania: https://github.com/kamillo2012/jpwpPrezentacja/blob/master/template%20-%20zad3.py
+
 # Zadanie 4
 Napisz prosty program, który utworzy kilka wątków. Każdy wątek wywołuje funkcję, która wypisuje tekst, następnie zawiesza działanie na 5s, potem ponownie wypisuje informacje dla użytkownika.
 
 https://docs.python.org/2.4/lib/thread-objects.html
+
+Szablon rozwiązania: https://github.com/kamillo2012/jpwpPrezentacja/blob/master/template%20-%20zad4.py
